@@ -5,8 +5,8 @@ Ce projet contient une bibliothèque Python pour l'analyse des incendies en Fran
 ## Instructions d'exécution
 
 1. **Cloner le dépôt :**
-   ```git clone https://github.com/leaaumagy/projet_fire.git
-   cd projet_fire```
+   ```bash git clone https://github.com/leaaumagy/projet_fire.git
+   cd projet_fire
 
 2. **Créer un environnement virtuel :**
 ```python3 -m venv venv
